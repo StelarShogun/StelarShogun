@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<h3 align="center">I'm StelarShogun</h3>
+<h3 align="center">I'm Dilan Rodriguez Cortes</h3>
 
 <p align="center">
   Developer focused on game development, software engineering, and creative technical projects.
