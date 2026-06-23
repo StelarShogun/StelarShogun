@@ -35,7 +35,11 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/StelarShogun/StelarShogun/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StelarShogun/StelarShogun/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StelarShogun/StelarShogun/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/StelarShogun/StelarShogun/output/snake.svg">
+  </picture>
 </div>
 
 ---
@@ -44,7 +48,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=StelarShogun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3" height="160" alt="GitHub streak stats" />
-  <img src="https://github-profile-trophy.vercel.app?username=StelarShogun&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="160" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app?username=StelarShogun&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" alt="GitHub trophies" />
 </div>
 
 <br />
