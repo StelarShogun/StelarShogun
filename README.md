@@ -48,8 +48,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=StelarShogun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3" height="160" alt="GitHub streak stats" />
-  <img src="https://github-trophies.vercel.app?username=StelarShogun&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" alt="GitHub trophies" />
-</div>
+ 
 
 <br />
 
