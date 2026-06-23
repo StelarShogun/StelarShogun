@@ -10,29 +10,6 @@
   Developer focused on game development, software engineering, and creative technical projects.
 </p>
 
----
-
-<h2 align="center">🌐 Connect with me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="X" />
-  </a>
-  <a href="https://discord.com/users/TU_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28" alt="Discord" />
-  </a>
-  <a href="https://www.twitch.tv/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28" alt="Twitch" />
-  </a>
-  <a href="https://dev.to/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="28" alt="dev.to" />
-  </a>
-</div>
-
----
 
 <h2 align="center">🧠 About me</h2>
 
